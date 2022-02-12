@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-sakana&theme=vue-dark&show_icons=true)](https://github.com/yu-sakana/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-sakana&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yu-sakana&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-sakana&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yu-sakana/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yu-sakana&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **yu-sakana/yu-sakana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
